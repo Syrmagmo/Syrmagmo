@@ -1,8 +1,8 @@
 ## Hellou, eu sou o Lincoln e no momento estou cursando Analise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/Syrmagmo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syrmagmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrmagmo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syrmagmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrmagmo&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <div style="display: inline_block"><br>
