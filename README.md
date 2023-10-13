@@ -1,4 +1,4 @@
-## Olá, eu me chamo Lincoln, sou formado em Analise e Desenvolvimento de Sistemas!
+## Olá, eu me chamo Lincoln, sou formado em Analise e Desenvolvimento de Sistemas, Front - end.
 <div align="center">
   <a href="https://github.com/Syrmagmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syrmagmo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
